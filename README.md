@@ -23,9 +23,10 @@ Rotating upon clicking
 
 Background of the table change accourding to the image in the table
 
-![image](https://user-images.githubusercontent.com/47054385/166136090-cb25f502-713b-4b4c-b99e-6ef6ef7eae9d.png)
+![image](https://user-images.githubusercontent.com/47054385/166136257-6dfa35a0-2584-49ba-b009-30671c12fb4c.png)
 
 Popup with dynamic arrow pointing
+
 Left arrow pointing
 ![image](https://user-images.githubusercontent.com/47054385/166136132-457beccb-32f5-419e-a470-edf07f23eb81.png)
 
