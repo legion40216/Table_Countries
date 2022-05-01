@@ -15,6 +15,7 @@ Homepage
 Features
 Animated button
 ![image](https://user-images.githubusercontent.com/47054385/166136028-df16d855-58cc-465b-9ed3-a85b43548da9.png)
+
 Rotating upon clicking
 ![image](https://user-images.githubusercontent.com/47054385/166136044-ff265ef7-00dd-4970-884d-502dcea1aed3.png)
 
@@ -24,8 +25,10 @@ Background of the table change accourding to the image in the table
 Popup with dynamic arrow pointing
 Left arrow pointing
 ![image](https://user-images.githubusercontent.com/47054385/166136132-457beccb-32f5-419e-a470-edf07f23eb81.png)
+
 Top arrow pointing
 ![image](https://user-images.githubusercontent.com/47054385/166136161-da34b52a-d8f8-4cbc-9606-1493aa80cac3.png)
+
 Bottom arrow Pointing
 ![image](https://user-images.githubusercontent.com/47054385/166136178-29599761-27c6-4b4b-b84f-8474a7151ecb.png)
 
