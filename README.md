@@ -5,7 +5,7 @@ A website with a creative looking design of table containing flags and data of c
 Php in this project sends and retrives data. it has a adding data section below the homepage a form
 it also has an edit section by clicking on any row in the table.
 
-javascipt is used to animate the add button and the form also is used to change the popup when a clicked on any row in the table
+javascipt is used to animate the add button and the form. it is also used to change the popup when a clicked on any row in the table
 
 bootstrap is to style the form and buttons
 
