@@ -14,12 +14,15 @@ Homepage
 
 Features
 Animated button
+
 ![image](https://user-images.githubusercontent.com/47054385/166136028-df16d855-58cc-465b-9ed3-a85b43548da9.png)
 
 Rotating upon clicking
+
 ![image](https://user-images.githubusercontent.com/47054385/166136044-ff265ef7-00dd-4970-884d-502dcea1aed3.png)
 
 Background of the table change accourding to the image in the table
+
 ![image](https://user-images.githubusercontent.com/47054385/166136090-cb25f502-713b-4b4c-b99e-6ef6ef7eae9d.png)
 
 Popup with dynamic arrow pointing
